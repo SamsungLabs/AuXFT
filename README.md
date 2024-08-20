@@ -1,9 +1,7 @@
 # AuXFT: Cross-Architecture Auxiliary Feature Space Translation for Efficient Few-Shot Personalized Object Detection, IROS 2024.
 This repository contains the code to reproduce the results presented in our [paper](https://arxiv.org/abs/2407.01193).
 
-![](https://github.com/user-attachments/assets/af24828b-2372-42ea-81ca-63cfc2312ca9)
-
-
+<video src="https://github.com/user-attachments/assets/af24828b-2372-42ea-81ca-63cfc2312ca9"></video>
 
 ## Prerequisites
 1. Clone this repository.
